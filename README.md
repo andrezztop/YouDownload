@@ -13,4 +13,4 @@ Opción para cancelar descargas en curso.
 Debes descargar ffmpeg desde https://www.ffmpeg.org/download.html agregarlo a la carpeta y llamarlo tools
 =======
 Convertidor de videos de youtube a mp3
->>>>>>> parent of e6440c5 (first commit)
+Asegúrate de que el archivo ffmpeg.exe esté ubicado en el directorio tools/bin dentro del proyecto.
